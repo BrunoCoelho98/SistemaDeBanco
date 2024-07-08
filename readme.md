@@ -28,7 +28,7 @@ Este é um sistema bancário simples desenvolvido em JavaScript que permite cria
 3. Execute o arquivo principal com o Node.js:
 
     ```bash
-    node index.js
+    node .\index.js
     ```
 
 ## Estrutura do Projeto
